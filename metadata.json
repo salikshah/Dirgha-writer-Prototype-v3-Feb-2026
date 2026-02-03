@@ -1,0 +1,7 @@
+{
+  "name": "Writer",
+  "description": "A scientific writing assistant with citation management and Gemini Live voice collaboration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
